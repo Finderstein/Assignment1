@@ -1,5 +1,9 @@
 # Deep Neural networks. Assignment 1. 
 
+## Solution
+You can find solution to this task in Assignment1.ipynb file.
+
+## Task
 There is a dataset called MNIST which has items of handwriting -- the digits 0 through 9.
 
 Write an MNIST classifier that trains to 99% accuracy or above, and does it without a fixed number of epochs -- i.e. you should stop training once you reach that level of accuracy.
