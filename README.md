@@ -1,7 +1,7 @@
 # Deep Neural networks. Assignment 1. 
 
 ## Solution
-You can find solution to this task in Assignment1.ipynb file.
+You can find solution to this task in [Assignment1.ipynb](https://github.com/Finderstein/Assignment1/blob/main/Assignment1.ipynb) file.
 
 ## Task
 There is a dataset called MNIST which has items of handwriting -- the digits 0 through 9.
