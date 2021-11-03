@@ -26,11 +26,15 @@ You can run the notebook using TensorFlow 2.5.0
 
 ```python
 #!pip install tensorflow==2.5.0
+```
 
+```python
 import tensorflow as tf
 
 print(tf.__version__)
+```
 
+```python
 # GRADED FUNCTION: train_mnist
 def train_mnist():
     # Please write your code only where you are indicated.
@@ -65,6 +69,8 @@ def train_mnist():
     # model fitting
     
     return history.epoch, history.history['accuracy'][-1]
-    
+```
+
+```python
 train_mnist()
 ```
