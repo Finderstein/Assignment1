@@ -24,6 +24,7 @@ For Python 3, use the following equivalent code line
 
 You can run the notebook using TensorFlow 2.5.0
 
+```python
 #!pip install tensorflow==2.5.0
 
 import tensorflow as tf
@@ -66,3 +67,4 @@ def train_mnist():
     return history.epoch, history.history['accuracy'][-1]
     
 train_mnist()
+```
